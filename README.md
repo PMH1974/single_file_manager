@@ -1,6 +1,6 @@
 This is a single page file uploader.
 Create - Rename - Delete - Navigate Folders
-Upload Multiple Files via Drag and Drop and Multi Form
+Upload Multiple Files via Drag and Drop and Multi Form - 
 Rename - Delete - Move Files - View Images
 
 Super simple design with easy to edit css
