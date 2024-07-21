@@ -9,4 +9,6 @@ NOTE:
 The file references itself a lot "file_manager.php" so if you change the name of the file, be sure to also change all references.
 To use this file... simply drop it into the web directory you want to edit files in. And run from browser.
 
+If using "file_manager vs2.php" rename file to  "file_manager.php"
+
 Written by PHM with a lot of help from ChatGPT and Claude.ai
