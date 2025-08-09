@@ -1,14 +1,6 @@
 This is a single page file uploader.
-Create - Rename - Delete - Navigate Folders
-Upload Multiple Files via Drag and Drop and Multi Form - 
-Rename - Delete - Move Files - View Images
+Create - Rename - Delete - Move Files - Search - Navigate Folders
 
-Super simple design with easy to edit css
+Just drop the file into a directory and you're good to go
 
-NOTE:
-The file references itself a lot "file_manager.php" so if you change the name of the file, be sure to also change all references.
-To use this file... simply drop it into the web directory you want to edit files in. And run from browser.
-
-If using "file_manager vs2.php" rename file to  "file_manager.php"
-
-Written by PMH with a lot of help from ChatGPT and Claude.ai
+Written by PMH with a lot of help from ChatGPT
